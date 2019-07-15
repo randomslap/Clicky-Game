@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "url": "/images/drmario.jpg",
+        "clicked": false,
+        "name": "doctor mario"
+    },
+    {
+        "id": 2,
+        "url": "/images/mario.png",
+        "clicked": false,
+        "name": "mario"
+    },
+    {
+        "id": 3,
+        "url": "/images/toad.jpg",
+        "clicked": false,
+        "name": "toad"
+    },
+    {
+        "id": 4,
+        "url": "/images/luigi.png",
+        "clicked": false,
+        "name": "luigi"
+    },
+    {
+        "id": 5,
+        "url": "/images/wario.png",
+        "clicked": false,
+        "name": "wario"
+    },
+    {
+        "id": 6,
+        "url": "/images/yoshi.png",
+        "clicked": false,
+        "name": "yoshi"
+    },
+    {
+        "id": 7,
+        "url": "/images/firemario.png",
+        "clicked": false,
+        "name": "fire mario"
+    },
+    {
+        "id": 8,
+        "url": "/images/bowser.png",
+        "clicked": false,
+        "name": "bowser"
+    },
+    {
+        "id": 9,
+        "url": "/images/waluigi.jpg",
+        "clicked": false,
+        "name": "waluigi"
+    }
+]
